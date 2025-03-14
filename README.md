@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Niećko</h1>
 <h3 align="center">ICT AGH STUDENT</h3>
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **JGolang and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
